@@ -5,7 +5,7 @@
 📍 Москва
 
 ## Junior Data Analyst
-Люблю анализировать данные и обладаю развитым критическим мышлением. Постоянно стремлюсь к совершенствованию профессиональных навыков как в рабочее время, так и в свободное, активно изучая новые технологии.
+Люблю анализировать данные и обладаю развитым критическим мышлением. Постоянно стремлюсь к совершенствованию профессиональных навыков как в рабочее время, так и в свободное, активно изучаю новые технологии.
 
 [![Telegram](https://img.shields.io/badge/TG-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/svyatikononov)  [![CV](https://img.shields.io/badge/-CV-009688?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/ваша_ссылка)  [![Kaggle](https://img.shields.io/badge/-Kaggle-008ABC?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/svyatikononov)  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/svyatikononov/)
 
